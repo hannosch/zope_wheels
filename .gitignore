@@ -1,0 +1,3 @@
+src/*
+wheelhouse/*.whl
+wheelhouse/*.whl.asc
